@@ -1,0 +1,8 @@
+#mail{
+    background: url(icons/email.svg) no-repeat ;
+    background-position: right;
+}
+#pass{
+    background: url(icons/lock.svg) no-repeat ;
+    background-position: right;
+}
